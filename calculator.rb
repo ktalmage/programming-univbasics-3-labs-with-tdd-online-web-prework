@@ -1,4 +1,3 @@
 first_number = 1
 second_number = 2
-
-first_number
+puts first_number
