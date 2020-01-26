@@ -1,3 +1,3 @@
-first_number = Integer
-second_number = 
+first_number = 1
+second_number = 2
 
